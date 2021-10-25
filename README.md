@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
-<h3 align="center"> I'm Rafael! I love solving problems and programming.</h3> ![Visitor Count](https://profile-counter.glitch.me/rafaelalmeida2909/count.svg)
-
+<h3 align="center"> I'm Rafael! I love solving problems and programming.</h3> 
 <div align="center">    
   <a href="https://neps.academy/br/user/3745" alt="nepsacademy" target="_blank">
   <img height=20 src="https://github.com/rafaelalmeida2909/rafaelalmeida2909/blob/master/logo.jpg"
@@ -32,3 +31,6 @@
 <h3 align="left"> :memo:&nbsp;Additional Information:</h3>
 
 - [Curriculum Lattes](http://lattes.cnpq.br/6951635583842593)
+
+### 👁️ Profile Viewrs Count
+[![Viewrs](https://badges.pufler.dev/visits/rafaelalmeida2909/rafaelalmeida2909)](https://badges.pufler.dev)
