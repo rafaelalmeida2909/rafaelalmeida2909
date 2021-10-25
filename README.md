@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
-<h3 align="center"> I'm Rafael! I love solving problems and programming.  </h3>
+<h3 align="center"> I'm Rafael! I love solving problems and programming.</h3> ![Visitor Count](https://profile-counter.glitch.me/rafaelalmeida2909/count.svg)
 
 <div align="center">    
   <a href="https://neps.academy/br/user/3745" alt="nepsacademy" target="_blank">
