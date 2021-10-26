@@ -32,5 +32,5 @@
 
 - [Curriculum Lattes](http://lattes.cnpq.br/6951635583842593)
 
-### 👁️ Profile Viewrs Count
+### 👁️ Profile Viewers Count
 [![Viewrs](https://badges.pufler.dev/visits/rafaelalmeida2909/rafaelalmeida2909)](https://badges.pufler.dev)
