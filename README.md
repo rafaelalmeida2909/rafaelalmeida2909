@@ -17,7 +17,7 @@
 
 <h3 align="left"> :man_technologist:&nbsp;About Me:</h3>
 <p align="center">
-   I'm studant of Computer Science at State University of Ceará (UECE). I was a scientific initiation scholarship holder for a year, where I worked with traffic analysis, network slicing and prediction processes with time series. This experience earned me a <a href=https://sol.sbc.org.br/index.php/wpeif/article/view/17196 target="_blank">publication</a> at the Brazilian Symposium on Computer Networks and Distributed Systems (SBRC). In addition, I worked on a research project at the National Education and Research Network (RNP) on the impact of data anonymization in the process of creating a traffic profile. I am currently a member of the Laboratory of Computer Networks and Security (LARCES), a technology transfer scholarship holder and work at the Information Technology Company of Ceará.
+   I'm student of Computer Science at State University of Ceará (UECE). I was a scientific initiation scholarship holder for a year, where I worked with traffic analysis, network slicing and prediction processes with time series. This experience earned me a <a href=https://sol.sbc.org.br/index.php/wpeif/article/view/17196 target="_blank">publication</a> at the Brazilian Symposium on Computer Networks and Distributed Systems (SBRC). In addition, I worked on a research project at the National Education and Research Network (RNP) on the impact of data anonymization in the process of creating a traffic profile. I am currently a member of the Laboratory of Computer Networks and Security (LARCES), a technology transfer scholarship holder and work at the Information Technology Company of Ceará.
    </p>
 
 <h3>:gear:&nbsp;GitHub Analytics:</h3>
